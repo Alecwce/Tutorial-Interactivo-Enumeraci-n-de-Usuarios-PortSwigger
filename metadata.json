@@ -1,0 +1,5 @@
+{
+  "name": "Tutorial Interactivo: Enumeración de Usuarios PortSwigger",
+  "description": "Una aplicación interactiva que guía a los usuarios a través del laboratorio 'Username enumeration via different responses' de PortSwigger, cubriendo la configuración de Burp Suite, FoxyProxy y el uso de Burp Intruder.",
+  "requestFramePermissions": []
+}
